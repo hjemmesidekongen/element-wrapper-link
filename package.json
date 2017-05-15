@@ -2,7 +2,6 @@
   "name": "element-wrapper-link",
   "version": "1.0.0",
   "description": "Provides an easy way to use a link as a wrapper.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
