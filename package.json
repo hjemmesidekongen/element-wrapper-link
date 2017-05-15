@@ -1,0 +1,19 @@
+{
+  "name": "element-wrapper-link",
+  "version": "1.0.0",
+  "description": "Provides an easy way to use a link as a wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjemmesidekongen/element-wrapper-link.git"
+  },
+  "author": "Morten Nissen <mail@hjemmesidekongen.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjemmesidekongen/element-wrapper-link/issues"
+  },
+  "homepage": "https://github.com/hjemmesidekongen/element-wrapper-link#readme"
+}
