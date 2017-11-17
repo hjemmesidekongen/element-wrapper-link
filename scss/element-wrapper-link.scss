@@ -23,6 +23,8 @@
 .element-wrapper-link {
 	display: block;
 
+	transition: none !important; // Remove link transitions
+
 	&,
 	&:hover,
 	&:focus,
